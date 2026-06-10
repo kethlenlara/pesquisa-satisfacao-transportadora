@@ -38,6 +38,7 @@ Realizar uma análise da satisfação dos clientes em relação aos serviços de
 ---
 
 # 📷 Dashboard
+<img width="800" height="591" alt="image" src="https://github.com/user-attachments/assets/0a64a34f-f974-4cc6-80ad-aef84d9aa700" />
 
 
 
